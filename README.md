@@ -6,7 +6,7 @@
 
 This library allows to use Material steppers inside Android applications.
 
-Quoting the [documentation](https://www.google.com/design/spec/components/steppers.html):
+Quoting the [documentation](https://material.io/archive/guidelines/components/steppers.html):
 
 >Steppers display progress through a sequence by breaking it up into multiple logical and numbered steps.
 
